@@ -9,7 +9,7 @@ Il vous est demandé de mettre en place un blog ou un site e-commerce
 ## Réalisation :
 **Durée :** 10 septembre 9h00 - 14 septembre 17h (tout retard ne sera pas corrigé)  
 **Groupe :** En solo  
-**Formalité d'envoi :** Dossier zippé envoyé par mail à : team-rodez@simplon.co  
+**Formalité d'envoi :** Dossier zippé envoyé par mail à Thomas Catinaud
 
 
 ## Rendu :
